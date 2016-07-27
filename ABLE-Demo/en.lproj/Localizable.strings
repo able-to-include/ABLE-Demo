@@ -1,0 +1,46 @@
+/* 
+  Localizable.strings
+  ABLE Services
+
+  Created by ariadna on 5/5/15.
+  Copyright (c) 2015 Ariadna. All rights reserved.
+*/
+
+
+"input_hint" = "Write your text here";
+"simpText" = "Simplified text:";
+"input_text" = "Input text:";
+"input_error" = "Input Error";
+"imageType" = "Image type:";
+"input_text_cannot_be_empty" = "Input text cannot be empty.";
+"wait" = "Wait";
+"Loading" = "Loading";
+"done" = "Done";
+"language" = "Language:";
+"english" = "English";
+"spanish" = "Spanish";
+"dutch" = "Dutch";
+"french" = "French";
+
+"title_activity_credits" = "Credits";
+"version_label" = "Version: 1.2";
+"contact_label" = "Contact: inf@asi-soft.com";
+"developed_by_label" = "Developed by: Roberto Esteban Santiago";
+"definition" = "This App integrates the three services provided by Able to Include Consortium partners.";
+"definition_simplext" = "Simplext: Universidad Pompeu Fabra & Ariadna S.I.";
+"definition_text2picto" = "Text2Picto: Katholieke Universiteit Leuven.";
+"definition_eSpeak" = "eSpeak: a Text2Speech open source tool.";
+
+"availability_error" = "Availability error";
+"service_error" = "Service error";
+"simplext_error" = "Spanish Simplext don't work";
+"error408" = "Timeout expired";
+"error451" = "You have not entered text";
+"error452" = "You have not entered language";
+"error453" = "You have not entered type of pictogram";
+"error454" = "You have not entered neither text nor language";
+"error455" = "You have not entered neither text nor language or type of pictogram";
+"error456" = "You have not entered neither language nor type of pictogram";
+"error457" = "You have not entered neither text nor type of pictogram";
+"error458" = "The language is not valid";
+"error459" = "The type of pictogram is not valid";

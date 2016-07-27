@@ -1,0 +1,45 @@
+/* 
+  Localizable.strings
+  ABLE Services
+
+  Created by ariadna on 5/5/15.
+  Copyright (c) 2015 Ariadna. All rights reserved.
+*/
+
+"input_hint" = "Schrijf je tekst hier";
+"simpText" = "Vereenvoudigde tekst:";
+"input_text" = "Inputtekst:";
+"input_error" = "Inputfout";
+"imageType" = "Soort afbeelding:";
+"input_text_cannot_be_empty" = "Inputtekst mag niet leeg zijn.";
+"wait" = "Wacht";
+"Loading" = "Het laden";
+"done" = "Gedaan";
+"language" = "Taal:";
+"english" = "Engels";
+"spanish" = "Spaaans";
+"dutch" = "Frans";
+"french" = "Nederlands";
+
+"title_activity_credits" = "Credits";
+"version_label" = "Versie: 1.2";
+"contact_label" = "Contact: inf@asi-soft.com";
+"developed_by_label" = "Ontwikkeld door: Roberto Esteban Santiago";
+"definition" = "Deze app verenigt drie services voorzien door de partners van het Able to Include Consortium.";
+"definition_simplext" = "Simplext: Universidad Pompeu Fabra & Ariadna S.I.";
+"definition_text2picto" = "Text2Picto: Katholieke Universiteit Leuven.";
+"definition_eSpeak" = "eSpeak: a Text2Speech open source tool.";
+
+"availability_error" = "Beschikbaarheidsfout";
+"service_error" = "Servicefout";
+"simplext_error" = "Spanish Simplext niet werken";
+"error408" = "Time-out";
+"error451" = "Je hebt geen tekst ingevoerd";
+"error452" = "Je hebt geen taal ingevoerd";
+"error453" = "Je hebt geen pictogramtaal gekozen";
+"error454" = "Je hebt geen tekst ingevoerd en geen pictogramtaal gekozen";
+"error455" = "Je hebt geen tekst ingevoerd en geen taal en pictogramtaal gekozen";
+"error456" = "Je hebt geen taal en pictogramtaal gekozen";
+"error457" = "Je hebt geen tekst ingevoerd en geen pictogramtaal gekozen";
+"error458" = "De taal is niet geldig";
+"error459" = "De pictogramtaal is niet geldig";

@@ -1,0 +1,19 @@
+//
+//  PrefixHeader.pch
+//  ABLE Services
+//
+//  Created by ariadna on 12/02/15.
+//  Copyright (c) 2015 Ariadna. All rights reserved.
+//
+
+#ifndef ABLE_Services_PrefixHeader_pch
+#define ABLE_Services_PrefixHeader_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+
+#import "AFNetworking.h"
+
+
+#endif
